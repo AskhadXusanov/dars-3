@@ -1,0 +1,31 @@
+.gol{
+   display: flex;
+   text-align: center; 
+   justify-content: center;
+   gap: 50px;
+}
+h1{
+    display: flex;
+    justify-content: center;
+
+}
+.ota{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+.mol{
+    display: flex;
+    width: 250px;
+    height: 200px;
+    background-color: brown;
+    gap: 30px;
+}
+.mol2{
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    padding: 50px 85px 50px 85px;
+    font-family: ;
+}
